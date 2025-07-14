@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+httpx
+sentence-transformers
+pdfminer.six
+prometheus-fastapi-instrumentator
+faiss-cpu             
